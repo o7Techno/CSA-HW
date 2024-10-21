@@ -6,7 +6,7 @@ a_begin: .space 40
 #  в b[i] будет лежать разность между a[i] и a[i + 1], тогда в b будет на 1 элемент меньше, чем в a. 
 b_begin: .space 36
 
-test_begin: .
+test_begin:
 .word 2
 .word 3
 .word -5
