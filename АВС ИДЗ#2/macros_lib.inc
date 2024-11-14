@@ -66,7 +66,7 @@ out:
 #  This macro allows user to select the mode in which they want to run the programm and runs the program with that mode.
 .macro mode
 .data
-mode_message: .asciz "If you want to execute the function given in task press 0, if you want to go through testing values press any other number.\nKeep in mind that auto-testing takes a while.\n"
+mode_message: .asciz "If you want to execute the function given in task press 0, if you want to go through testing values press any other number.\n"
 message: .asciz "To approximate pi with 0.1% precision this script uses Rieman zetta-funcion to 2000 terms\nIf you select 0 you can input your own amount of terms or input any other number to procede with the default settings.\n"
 terms: .asciz "Input the amount of terms [2; 40000] :\n"
 incorrect: .asciz "Incorrect amount of terms.\n"
