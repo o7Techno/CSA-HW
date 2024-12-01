@@ -14,13 +14,15 @@ min_message: .asciz "Min code and char.\n"
 max_message: .asciz "Max code and char.\n"
 spaces: .asciz "  is the code for char  "
 
+ans: .byte
+
 test: .asciz "test0.txt"
 res: .asciz "res0.txt"
 
 .align 2
 min_result: .space 16
 max_result: .space 16
-result: .space 1
+result: .space 4
 buffer: .space 16
 n: .asciz "\n"
 
@@ -30,9 +32,15 @@ strbuf:	.space TEXT_SIZE
 .text
 main:
 #Selecting programm runing mode.
-string_output_macro(mode_selection)
-char_input_macro(t0)
+li a7 54
+la a0 mode_selection
+la a1 ans
+li a2 4
+ecall
+
 li t1 '1'
+la t2 ans
+lb t0 (t2)
 beq t0 t1 normal
 li t1 '2'
 beq t0 t1 testing1
