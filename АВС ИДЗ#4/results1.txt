@@ -1,0 +1,49 @@
+Press Enter to stop the simulation...
+Chatter 2 is waiting for a call.
+Chatter 1 is talking to Chatter 2.
+Chatter 3 is talking to Chatter 4.
+Chatter 0 is waiting for a call.
+Chatter 3 has finished talking to Chatter 4.
+Chatter 3 is waiting for a call.
+Chatter 4 is talking to Chatter 0.
+Chatter 1 has finished talking to Chatter 2.
+Chatter 2 is talking to Chatter 3.
+Chatter 4 has finished talking to Chatter 0.
+Chatter 1 is talking to Chatter 4.
+Chatter 2 has finished talking to Chatter 3.
+Chatter 0 is talking to Chatter 2.
+Chatter 1 has finished talking to Chatter 4.
+Chatter 4 is talking to Chatter 1.
+Chatter 0 has finished talking to Chatter 2.
+Chatter 0 is waiting for a call.
+Chatter 3 is talking to Chatter 2.
+Chatter 4 has finished talking to Chatter 1.
+Chatter 4 is waiting for a call.
+Chatter 1 is talking to Chatter 0.
+Chatter 3 has finished talking to Chatter 2.
+Chatter 2 is talking to Chatter 4.
+Chatter 1 has finished talking to Chatter 0.
+Chatter 2 has finished talking to Chatter 4.
+Chatter 2 is waiting for a call.
+Chatter 0 is talking to Chatter 3.
+Chatter 4 is talking to Chatter 1.
+Chatter 0 has finished talking to Chatter 3.
+Chatter 2 is talking to Chatter 0.
+Chatter 4 has finished talking to Chatter 1.
+Chatter 3 is talking to Chatter 1.
+Chatter 3 has finished talking to Chatter 1.
+Chatter 4 is talking to Chatter 3.
+Chatter 2 has finished talking to Chatter 0.
+Chatter 1 is talking to Chatter 0.
+Chatter 2 is waiting for a call.
+Chatter 4 has finished talking to Chatter 3.
+Chatter 3 is talking to Chatter 4.
+Chatter 1 has finished talking to Chatter 0.
+Chatter 1 is waiting for a call.
+Chatter 2 is talking to Chatter 0.
+Chatter 1 is waiting for a call.
+Chatter 3 has finished talking to Chatter 4.
+Chatter 3 is waiting for a call.
+Chatter 4 is waiting for a call.
+Chatter 2 has finished talking to Chatter 0.
+Chatter 0 is waiting for a call.
